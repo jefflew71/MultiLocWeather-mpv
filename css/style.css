@@ -1,0 +1,41 @@
+#navbar-header {
+    border: 0;
+}
+
+h5 {
+    font-size: 1.1vw;
+}
+
+#w-location h3 {
+    font-size: 2vw;
+}
+
+.card-img-top {
+    width:15%;
+    float: left;
+    
+}
+
+.card-title h5 {
+    color:dodgerblue;
+}
+
+.card-body th {
+    font-size: 0.75vw;
+}
+
+.card-body tr {
+    font-size: 0.65vw;
+}
+
+.fa-solid:hover {
+    cursor: pointer;
+}
+
+/* .small-icons {
+    padding 0, 5px;
+} */
+
+.fa-solid {
+    padding-left: 3%;
+}
